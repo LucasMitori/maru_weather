@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Lucas Mitori - Maru Weather
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasMitori/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasMitori/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LucasMitori/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LucasMitori/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LucasMitori/README-template?style=for-the-badge)
 
-## Available Scripts
+<!---<img src="exemplo-image.png" alt="exemplo imagem">--->
 
-In the project directory, you can run:
+> Projeto criado a partir de conhecimentos com API, React, Javascript, styled-components, HTML e CSS. Maru weather foi pensado para ser uma demonstração de portifólio, usando a Open Weather API, onde por meio de uma requisição, é possível obter o retorno de tempo e clima de uma cidade que deseja procurar. 
 
-### `yarn start`
+### Ajustes e melhorias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] #1 - Criação da estilização e organização de pastas
+- [x] #2 - Criação de componentes e animações
+- [x] #3 - Criação de rotas e lançamento para o vercel
+- [ ] #4 - Implementar Mapa de tempo juntamente com uma estruturação mais complexa
+- [ ] #5 - Correção de bugs e implementação de funcionalidades extras
 
-### `yarn test`
+## 💻 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de: react.
+* Você tem uma máquina `<Windows / Linux / Mac>`. Windows
+* Você leu : Ainda não possui documentação.
 
-### `yarn build`
+## 🚀 Instalando Maru Weather
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para instalar o Personal Portfolio, siga estas etapas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Windows:
+```
+instalação de visual code
+```
+```
+yarn install
+```
+```
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## 📫 Contribuindo para Maru Weather
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com Personal Portfolio, siga estas etapas:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🤝 Colaboradores
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-## Learn More
+<table>
+  
+</table>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 😄 Seja um dos contribuidores<br>
 
-### Code Splitting
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📝 Licença
 
-### Analyzing the Bundle Size
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
