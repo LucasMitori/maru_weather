@@ -6,7 +6,7 @@ import styled from "styled-components";
     Author: Lucas Mitori Oliveira Okumura
     contact: lucas.mitori@hotmail.com
     cel: +55 (11) 9-7749-2121
-    Name: Personal Portifólio Design
+    Name: Maru Weather Design
     Description: Using styled-components to improve Header Space.
     ~ *   Header Styles   * ~
 

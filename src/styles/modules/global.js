@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
     Author: Lucas Mitori Oliveira Okumura
     contact: lucas.mitori@hotmail.com
     cel: (11) 9-7749-2121
-    Name: Personal Portfolio 
+    Name: Maru Weather
     Description: Project made with react
     ~ *   Root CSS - Global styles   * ~
 

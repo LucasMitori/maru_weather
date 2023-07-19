@@ -5,8 +5,8 @@ import styled from "styled-components";
     Author: Lucas Mitori Oliveira Okumura
     contact: lucas.mitori@hotmail.com
     cel: +55 (11) 9-7749-2121
-    Name: Personal Portfolio Styles
-    Description: Using styled-components to improve About Page.
+    Name: Maru Weather Styles
+    Description: Using styled-components to improve Dashboard Page.
     ~ *   About Page Styles   * ~
 
             Version: 1.0

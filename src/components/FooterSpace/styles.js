@@ -6,7 +6,7 @@ import Beach from "../../assets/img/beach.gif";
     Author: Lucas Mitori Oliveira Okumura
     contact: lucas.mitori@hotmail.com
     cel: +55 (11) 9-7749-2121
-    Name: Personal Portfolio Styles
+    Name: Maru Weather Styles
     Description: Using styled-components to improve Footer Space.
     ~ *   Footer Styles   * ~
 
