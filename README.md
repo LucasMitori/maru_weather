@@ -34,10 +34,15 @@ Para instalar o Personal Portfolio, siga estas etapas:
 
 Windows:
 ```
-<comando_de_instalação>
+instalação de visual code
+```
+```
+yarn install
+```
+```
+yarn start
 ```
 
-yarn install
 
 ## 📫 Contribuindo para Maru Weather
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
